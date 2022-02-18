@@ -1,20 +1,20 @@
 {
     "basic_info": {
-      "name": "Ursula Lopez",
-      "titles": [ "Software Developer" ],
+      "name": "Tanner Percival",
+      "titles": [ "Software Developer in ASP.NET Core / JavaScript" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/Tanner253",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/tannerperc/",
+          "class": "fa fa-linkedin"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "100x100.jpg"
     },
     "skills": {
       "icons": [
