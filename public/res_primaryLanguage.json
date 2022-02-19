@@ -11,70 +11,109 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
+        "title": "Curve - Behavioral CMS (API)",
+        "startDate": "2019",
+        "description": "Curve is an application intended to accelerate your personal and professional growth curve over time by working towards growth milestones. Evaluate your progress by scoring your technical and professional proficiencies and track your improvement over time. Based on Medium’s open source Snowflake Project, this application represents the interdisciplinary efforts of an amazing group of twenty C# and JavaScript developers over a 4 day time period. The current application uses a C# backend to provide user authorization and database management for a JavaScript React/Gatsby front end utilizing Apollo/GraphQL in order to setup an initial application based on client requirements that can be built upon by future developers. To this end, we have worked hard to create an initial roadmap for the success of those that come after us.",
+        "images": [
+          "images/portfolio/animal-shelter/curvelogo.PNG",
+          "images/portfolio/animal-shelter/curvehome.PNG"
+        ],
+        "url": "https://github.com/CodeFellows-Curve/dotnet-api",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-graphql-plain",
+            "name": "GraphQL"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          },
+          {
+            "class": "devicon-microsoftsqlserver-plain",
+            "name": "SQLServer"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-dotnetcore-plain",
+            "name": ".NET Core"
+          }
+          ,
+          {
+            "class": "devicon-azure-plain",
+            "name": "Azure"
+          }
+        ]
+      },
+      {
+        "title": "Prehistoric Realism",
         "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "The game has an X amount of dinosaurs some herbivores and some carnivores, this website is a CMS for the profiles for each of these dinosaurs. these profiles define how a dinosaur in game should play or bahave. You can register and login, allowing admins with the proper credentials to see the admin panel and edit what the users see in the catalog.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/photography/PRlogo.PNG",
+          "images/portfolio/photography/PRdino.PNG",
+          "images/portfolio/photography/PRhome.PNG",
+          "images/portfolio/photography/PRbrowse.PNG"
         ],
-        "url": "",
+        "url": "https://github.com/Tanner253/DinoCMS2.2",
         "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
           {
             "class": "devicon-csharp-plain",
             "name": "C#"
+          },
+          {
+            "class": "devicon-microsoftsqlserver-plain",
+            "name": "SQLServer"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-dotnetcore-plain",
+            "name": ".NET Core"
+          }
+          ,
+          {
+            "class": "devicon-azure-plain",
+            "name": "Azure"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Blog / CMS",
+        "startDate": "2021",
+        "description": "When the user lands on the Home page of the website they will be greeted with an about me page where the social media influencer will have input some information about themselves and their lifestyle and explain why the website they are on is important to them and their growth as a person. There will be more information found on the homepage like information about business opportunities, Resume information, Affiliation information, and contact information.After the user gets to know the social media influencer and trust/some sort of consumer relationship is formed, push users to browse products the social media influencer is sponsored with, and products the influencer endorses publicly. The user will be able to read about the product in a separate catalog from the store page, and if they are interested in buying the product with the PROMO-CODE to save money/support the influencer then there will be a BUY ME button that links the user to the item and checkout page directly (Hopefully provided by the companies to the influencer when they are sponsored) where sales can be made to bring in money for the social media influencer. The website will redirect traffic while informing them of products and serving them advertisements.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/adventure/logo.PNG",
+          "images/portfolio/adventure/MKhome.PNG",
+          "images/portfolio/adventure/MKpanel.png",
+          "images/portfolio/adventure/blog.png",
+          "images/portfolio/adventure/MKbrowse.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/Tanner253/MikeDiazTrafficControl",
         "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
           {
             "class": "devicon-csharp-plain",
             "name": "C#"
+          },
+          {
+            "class": "devicon-jquery-plain",
+            "name": "JQuery"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-dotnetcore-plain",
+            "name": ".NET Core"
           }
         ]
       }
