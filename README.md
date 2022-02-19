@@ -51,7 +51,12 @@ dotnet run
 Unit testing is included in the AmandaFE/FrontendTesting project using the xUnit test framework. Tests have been provided for models, view models, controllers, and utility classes for the application.
 
 ---------------------------------
-
+# Features
+Number and name of feature: #1 populate
+Estimate of time needed to complete: 2hr
+Start time: 2:15
+Finish time: 5:08
+Actual time needed to complete:3hr
 
 
 ---------------------------
