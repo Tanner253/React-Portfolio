@@ -7,6 +7,7 @@ import Footer from "./components/Footer";
 import About from "./components/About";
 import Home from "./components/Home";
 
+
 class App extends Component {
 
   constructor(props) {
