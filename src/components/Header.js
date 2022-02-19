@@ -45,12 +45,12 @@ class Header extends Component {
           </svg>
         </a>
         <Nav activeKey="/home" fill style={{ position: 'absolute', top: 10, right: 10 }}>
-          <Nav.Item> 
+          <Nav.Item className="whiteItem"> 
             <LinkContainer to="/">
               <Nav.Link href="/">Home</Nav.Link>
             </LinkContainer>
           </Nav.Item>
-          <Nav.Item>        
+          <Nav.Item className="whiteItem">        
             <LinkContainer to="/about">
               <Nav.Link eventKey="about">About</Nav.Link>
             </LinkContainer>
