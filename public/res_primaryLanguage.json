@@ -11,7 +11,7 @@
     },
     "projects": [
       {
-        "title": "Curve - Behavioral CMS (API)",
+        "title": "Curve - CMS (API Team)",
         "startDate": "2019",
         "description": "Curve is an application intended to accelerate your personal and professional growth curve over time by working towards growth milestones. Evaluate your progress by scoring your technical and professional proficiencies and track your improvement over time. Based on Medium’s open source Snowflake Project, this application represents the interdisciplinary efforts of an amazing group of twenty C# and JavaScript developers over a 4 day time period. The current application uses a C# backend to provide user authorization and database management for a JavaScript React/Gatsby front end utilizing Apollo/GraphQL in order to setup an initial application based on client requirements that can be built upon by future developers. To this end, we have worked hard to create an initial roadmap for the success of those that come after us.",
         "images": [
@@ -37,17 +37,16 @@
             "name": "SQLServer"
           },
           {
-            "class": "devicon-html5-plain",
-            "name": "HTML5"
-          },
-          {
             "class": "devicon-dotnetcore-plain",
             "name": ".NET Core"
-          }
-          ,
+          },
           {
             "class": "devicon-azure-plain",
             "name": "Azure"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           }
         ]
       },
@@ -120,37 +119,55 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Freelance",
+        "title": "Full-Stack Developer",
+        "years": "9.2018 - 2.2022",
         "mainTech": [
-          "Angular 8/9/10"
+          ".NET Core/JavaScript"
         ],
         "technologies": [
           "REST API",
-          "RxJS",
+          "ReactJS",
           "JavaScript",
           "Bootstrap",
           "MDBootstrap",
           "EF Core",
           ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "MVC",
+          "Razor Pages",
+          "Auth.net",
+          "AzureBlob",
+          "SQL Server"
+
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Social Media marketing",
+        "title": "Manager",
+        "years": "01.2020 - 01.2021",
         "mainTech": [
-          "Angular 7/8"
+          "Social media sources"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Twitter",
+          "Instagram",
+          "OnlyFans",
+          "Reddit",
+          "tumblr"
+        ]
+      },
+      {
+        "company": "Construction Managment",
+        "title": "Manager",
+        "years": "01.2012 - 01.2017",
+        "mainTech": [
+          "Demolition"
+        ],
+        "technologies": [
+          "Managed projects on-site, making job assignments and identifying priority tasks.",
+          "Improved and optimized task assignments to ensure quality and timely work completion."
+          ,
+          "Worked with minimal supervision, exercised good judgment, and promoted a positive work environment."
         ]
       }
     ]

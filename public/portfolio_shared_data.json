@@ -11,7 +11,7 @@
         {
           "name": "LinkedIn",
           "url": "https://www.linkedin.com/in/tannerperc/",
-          "class": "fa fa-linkedin"
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "100x100.jpg"
@@ -34,11 +34,6 @@
           "level": "80"
         },
         {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
-        },
-        {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
           "level": "70"
@@ -54,14 +49,29 @@
           "level": "85"
         },
         {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
-          "level": "65"
-        },
-        {
           "name": "MySql",
           "class": "devicon-mysql-plain",
           "level": "60"
+        },
+        {
+          "class": "devicon-graphql-plain",
+          "name": "GraphQL"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        },
+        {
+          "class": "devicon-microsoftsqlserver-plain",
+          "name": "SQLServer"
+        },
+        {
+          "class": "devicon-dotnetcore-plain",
+          "name": ".NET Core"
+        },
+        {
+          "class": "devicon-azure-plain",
+          "name": "Azure"
         }
       ]
     }
